@@ -2,6 +2,7 @@
 var firebaseConfig = {
     apiKey: "AIzaSyA6CsYbhaucqCLSGOD-__Sy2kP_iKt6kXA",
     authDomain: "let-s-chat-web-app-part-2.firebaseapp.com",
+    databaseURL: "https://let-s-chat-web-app-part-2-default-rtdb.firebaseio.com",
     projectId: "let-s-chat-web-app-part-2",
     storageBucket: "let-s-chat-web-app-part-2.appspot.com",
     messagingSenderId: "731141706768",
