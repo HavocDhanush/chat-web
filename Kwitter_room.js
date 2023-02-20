@@ -42,3 +42,4 @@ function redirectToRoomName(name){
  window.location = "kwitter_page.html";
 }
 
+
